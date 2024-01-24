@@ -8,7 +8,7 @@ public class SharedData
 	public SharedData(int[] array, int b) {
 		
 		this.array = array;
-		this.b = b;
+		this.b = b+2;
 	}
 
 	public boolean[] getWinArray() 
